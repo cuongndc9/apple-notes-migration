@@ -44,5 +44,5 @@ Submit issues and enhancement requests on the GitHub repository!
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-🐯
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
