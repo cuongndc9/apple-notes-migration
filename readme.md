@@ -43,6 +43,6 @@ Export Apple Notes to Markdown files.
 Submit issues and enhancement requests on the GitHub repository!
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🦄
+Stay curious. Keep learning. Keep growing.
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
