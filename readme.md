@@ -42,4 +42,3 @@ Export Apple Notes to Markdown files.
 
 Submit issues and enhancement requests on the GitHub repository!
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nThe best way to predict the future is to create it.\n🐯\n<!-- INSPIRATIONAL_QUOTE_END -->
